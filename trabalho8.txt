@@ -1,0 +1,8 @@
+total 14
+drwxr-xr-x 1 kelvinfabricio 1049089    0 Sep 22 20:19 ./
+drwxr-xr-x 1 kelvinfabricio 1049089    0 Sep 22 20:14 ../
+drwxr-xr-x 1 kelvinfabricio 1049089    0 Sep 22 20:17 .git/
+-rw-r--r-- 1 kelvinfabricio 1049089 1088 Sep 22 20:14 LICENSE
+-rw-r--r-- 1 kelvinfabricio 1049089   62 Sep 22 20:14 README.md
+-rw-r--r-- 1 kelvinfabricio 1049089   13 Sep 22 20:17 arquivo1.txt
+-rw-r--r-- 1 kelvinfabricio 1049089    0 Sep 22 20:19 trabalho8.txt
